@@ -24,3 +24,18 @@ console.log("\nThe mild and cheap vacations are:", mildCheapSpots);
 //   .filter(spots => spots.climate === "Mild")
 //   .filter(spots => spots.cost <= 500.00)
 // console.log("\nThe mild and cheap vacations are:", mildCheapSpots);
+
+// Now imagine that our 401K is doing real well, and we can
+// visit manay places with our unlimited PTO,
+// let's find out the toal cost to visit all the warm countries
+// const costOfWarmCountries = vacationSpots
+//   .filter(function(spots){
+//     return spots.climate === "Warm"
+//   })
+//   .map(function(spots){
+//     return spots.cost
+//   })
+//   .reduce(function(prev, value){
+//     return (prev || 0) + value
+//   })
+// console.log("\nThe cost to visit the warm countries is:", costOfWarmCountries);
