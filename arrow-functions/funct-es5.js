@@ -31,4 +31,4 @@ const costOfWarmCountries = vacationSpots
   .reduce(function(prev, value){
     return (prev || 0) + value
   })
-  console.log("\nThe cost to visit the warm countries is:", costOfWarmCountries);
+console.log("\nThe cost to visit the warm countries is:", costOfWarmCountries);
