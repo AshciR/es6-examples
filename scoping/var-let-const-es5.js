@@ -23,3 +23,5 @@ use immideately invoked function expressions (IIFEs) */
 //   }
 //   console.log('after loop', i);
 // })()
+
+// N.B. Don't forget to mention variable hoisting!
