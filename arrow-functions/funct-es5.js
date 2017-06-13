@@ -17,6 +17,6 @@ z.point = 4 // realize that we can change the value inside the object
 console.log(z);
 
 // Note that we're still not allowed to reassign the object though
-// z = {
-//   point: 5
-// }
+z = {
+  point: 5
+}
