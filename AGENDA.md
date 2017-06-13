@@ -1,4 +1,6 @@
 # Topics:
+## Introduction:
+- The state of JavaScript, and it's evolution
 ## Scoping:
 - Variable definition before ES6
 - Variable hoisting
